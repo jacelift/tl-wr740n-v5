@@ -23,6 +23,8 @@ grep -irl wr710n ./*
 
 2、内存16MB：8M*16bit ddr类型 winbond  W9412G6JH-5 【已硬改为64MB，型号：HY5DU121622DTP-D43】
 
+加焊上一个 22Ω 的电阻（R59），以保证能够使用全部 64M 内存
+
 3、闪存：16Mbit/8=2MB sop-8 【已硬改为16MB，型号：MX25L12835FM2I-10G】
 
 4、网口：W L L L L，100Mbps
