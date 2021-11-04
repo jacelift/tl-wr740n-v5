@@ -3,7 +3,7 @@
 tl-wr740n-v5
 （for https://github.com/coolsnowwolf/lede）
 
-grep -irl wr710n ./*
+grep -irl wr710n ./*  (ar9331_tplink_tl-wr710n-v1)
 
 1.【修改文件】
 
